@@ -1,6 +1,6 @@
-package io.getarrays.userservice.domain.repo;
+package io.getarrays.userservice.repo;
 
-import io.getarrays.userservice.entity.User;
+import io.getarrays.userservice.domain.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface UserRepo extends JpaRepository<User, Long> {
