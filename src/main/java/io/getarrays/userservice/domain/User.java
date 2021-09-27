@@ -1,5 +1,6 @@
-package io.getarrays.userservice.entity;
+package io.getarrays.userservice.domain;
 
+import io.getarrays.userservice.domain.Role;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
